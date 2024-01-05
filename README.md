@@ -18,7 +18,8 @@ I'm Sondev, also known as [@hansoinner](https://github.com/hansoinner) on GitHub
 
 - Tailwindcss
 - React
-- JS 
+- JS
+- Python
 
 ### Let's Connect
 
